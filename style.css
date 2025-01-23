@@ -3084,3 +3084,20 @@ input, textarea {
 .product-description-content .social-links .items a:last-child {
     margin-right: 0;
 }
+
+
+
+
+
+.whatsapp img {
+ position: fixed;
+ width: 60px;
+ height: 60px;
+ bottom: 40px;
+ left: 40px;
+ border-radius: 50px;
+ text-align: center;
+ font-size: 30px;
+ box-shadow: 2px 2px 3px #999;
+ z-index: 100;
+}
